@@ -9,3 +9,5 @@ This web application should allow the user to do the following:
 - Display each item's individual prices in in-game currency (Refined Metal, Keys)
 - Calculate the additional price added to an item with add-ons (paint, strange parts) based on a % discount.
 
+## Setup
+
